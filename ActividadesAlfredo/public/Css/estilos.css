@@ -1,0 +1,32 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+span.titulo
+{
+	font-size: 45px;
+	font-style: bold;
+}
+
+#contenedor
+{
+	margin: 0 auto;
+	padding: 2em;
+	border: 3px rgb(0, 0, 0) solid;
+}
+
+#insercion
+{
+	margin: 0 auto;
+	padding: 2em;
+	border: 3px rgb(255, 0, 0) solid;
+}
+
+#imprime
+{
+	margin: 0 auto;
+	padding: 2em;
+	border: 3px rgb(0, 255, 0) solid;
+}
